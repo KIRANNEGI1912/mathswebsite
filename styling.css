@@ -48,7 +48,7 @@ h1 a{
     padding:5px;
     font-size: 15px;
     color:orange;
-    background: white url(images/search.png) right center no-repeat;
+    background: white url(search.png) right center no-repeat;
     border: 1px solid #C8D03E;
 }
 .submit{
@@ -161,13 +161,13 @@ h1 a{
 #leftsidebar ul li{
     padding-bottom: 6px;
     padding-left: 10px;
-    list-style-image: url(images/direction.jpg);
+    list-style-image: url(direction.jpg);
 
 }
 #rightsidebar ul li{
     padding-bottom: 6px;
     padding-left: 10px;
-    list-style-image: url(images/tick.png);
+    list-style-image: url(tick.png);
 }
 /* #leftsidebar{
     float:left;
